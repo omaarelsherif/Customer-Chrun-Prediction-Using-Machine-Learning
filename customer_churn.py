@@ -13,9 +13,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
+from sklearn.model_selection import KFold, cross_val_score
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 ## 1 | Data Preprocessing ##
@@ -100,8 +101,6 @@ y_pred = model.predict(X_test)
 """Evaluate model performance"""
 
 # 3.1 Cross validation score
-from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
-from sklearn.model_selection import KFold, cross_val_score
 _ = cross_val_score(model, X_train, y_train, cv=10, scoring='accuracy')
 results = (_.mean(), _.std())
 
