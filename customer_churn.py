@@ -3,7 +3,7 @@
 Description:
             Customer churn is the percentage of customers that stopped using your company's product or service during a certain time frame,
             We will use machine learning algorithm called logistic regression to predict this value by train the model in dataset of customers
-            information with their chrum value and then predict future chrum value for future customers.
+            information with their churn value and then predict future churn value for future customers.
 """
 
 # Importing modules
