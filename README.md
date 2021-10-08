@@ -6,8 +6,7 @@
 <img src="Images/customer_chrun.png" alt="Logo">
 
 <!-- GETTING STARTED -->
-## **<br/><h2>➲ Getting started<h2/>**
--------------------------
+## **➲ Getting started**
 
 <!-- PROJECT DESCRIPTION -->
 ## <br/>➲ Project description
@@ -23,8 +22,6 @@ This is a list of required packages for the project to be installed :
 * Seaborn
 * Matplotlib
 * Scikit-learn
-<br>
-
 Install all required package :
   ```sh
   pip install -r requirements.txt
@@ -53,8 +50,8 @@ The dataset is ready for training, so we create a logistic regression model usin
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
 
 <!-- INSTALLATION -->
-## **<br/><h2>➲ Installation<h2/>**
-------------------------- 
+## **➲ Installation**
+
 1. Clone the repo
    ```sh
    git clone https://github.com/omaarelsherif/Customer-Chrun-Prediction-Using-Machine-Learning.git
@@ -64,16 +61,16 @@ Finally we evaluate the model by getting accuracy, classification report and con
    python customer_churn.py
    
 <!-- REFERENCES -->
-## **<br/><h2>➲ References<h2/>**
-------------------------- 
+## **➲ References**
+ 
 These links may help you to better understanding of the project idea and techniques used :
 1. Customer chrum in machine learning : https://bit.ly/3B7zOte
 2. Logistic regression : https://bit.ly/3kqIIeA
 3. Model evaluation : https://bit.ly/3B12VOO
 
 <!-- CONTACT -->
-## **<br/><h2>➲ Contact<h2/>**
-------------------------- 
+## **➲ Contact**
+
 - E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
 - LinkedIn : https://www.linkedin.com/in/omaarelsherif/
 - Facebook : https://www.facebook.com/omaarelshereif
