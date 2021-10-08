@@ -3,7 +3,9 @@
 **<h1 align="center">Customer Churn Prediction</h1>**
 
 <!-- LOGO -->
-<img src="Images/customer_chrun.png" alt="Logo">
+<p align="center">
+  <img src="Images/customer_chrun.png" />
+</p>
 
 <!-- PROJECT DESCRIPTION -->
 ## <br/>➲ Project description
