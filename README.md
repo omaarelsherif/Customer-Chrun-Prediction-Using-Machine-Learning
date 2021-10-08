@@ -24,7 +24,8 @@ This is a list of required packages for the project to be installed :
 
 <br>
 Install all required package :
-  ```sh
+
+ ```sh
   pip install -r requirements.txt
   ```
 
