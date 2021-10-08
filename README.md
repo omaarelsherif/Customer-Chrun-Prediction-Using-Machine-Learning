@@ -21,7 +21,9 @@ This is a list of required packages for the project to be installed :
 * Seaborn
 * Matplotlib
 * Scikit-learn
-<br>Install all required package :
+
+<br>
+Install all required package :
   ```sh
   pip install -r requirements.txt
   ```
