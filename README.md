@@ -4,7 +4,7 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="Images/customer_chrun.png" />
+  <img src="Images/customer_chrun.jpg" />
 </p>
 
 <!-- PROJECT DESCRIPTION -->
