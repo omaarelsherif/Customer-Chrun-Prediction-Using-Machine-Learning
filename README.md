@@ -5,9 +5,6 @@
 <!-- LOGO -->
 <img src="Images/customer_chrun.png" alt="Logo">
 
-<!-- GETTING STARTED -->
-## **➲ Getting started**
-
 <!-- PROJECT DESCRIPTION -->
 ## <br/>➲ Project description
 Customer churn is the percentage of customers that stopped using your company's product
