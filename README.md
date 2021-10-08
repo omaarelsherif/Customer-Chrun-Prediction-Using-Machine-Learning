@@ -36,7 +36,7 @@ and a target column which decide if the customer stay or not.
 <br>**Dataset features and target :**
 <img src="Images/dataset_columns.png" alt="Logo">
 <br>**The goal? :**
-<br>So the goal of project is to predict the chrun for new customer 
+<br>So the goal of project is to predict the churn for new customer 
 
 
 <!-- CODING STEP BY STEP -->
