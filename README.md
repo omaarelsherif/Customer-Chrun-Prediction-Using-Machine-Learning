@@ -22,7 +22,7 @@ This is a list of required packages for the project to be installed :
 * Matplotlib
 * Scikit-learn
 
-<br>
+
 Install all required packages :
 
  ```sh
