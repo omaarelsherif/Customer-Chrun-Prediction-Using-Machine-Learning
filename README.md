@@ -8,12 +8,12 @@
 </p>
 
 <!-- PROJECT DESCRIPTION -->
-## **➲ Project description**
+## <br>**➲ Project description**
 Customer churn is the percentage of customers that stopped using your company's product
 or service during a certain time frame, We will use machine learning algorithm called logistic regression to predict this value by train the model in dataset of customers information with their churn value and then predict future churn value for future customers.
 
 <!-- PREREQUISTIES -->
-## **➲ Prerequisites**
+## <br>**➲ Prerequisites**
 This is a list of required packages for the project to be installed :
 * <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Pandas 
@@ -22,34 +22,38 @@ This is a list of required packages for the project to be installed :
 * Matplotlib
 * Scikit-learn
 
-
 Install all required packages :
-
  ```sh
   pip install -r requirements.txt
   ```
 
 <!-- THE DATASET -->
-## **➲ The Dataset**
+## <br>**➲ The Dataset**
 The customer churn dataset contain 20 feature to describe customer state<br>
 and a target column **"Churn"** which decide if the customer stay or not.
 <br>**Dataset features and target :**
-<img src="Images/dataset_columns.png">
+![](Images/dataset_columns.png)
 
 <!-- CODING SECTIONS -->
-## **➲ Coding Sections**
-In this part we will see the project code divided to sections as follows:<br>
-- Section 1 | Data Preprocessing : <br>
-In this section we aim to do some operations on the dataset before training the model on it, <br>processes like loading dataset, check missing values and dataset statistics.
+## <br>**➲ Coding Sections**
+In this part we will see the project code divided to sections as follows:
+<br>
+
+- Section 1 | Data Preprocessing :<br>
+In this section we aim to do some operations on the dataset before training the model on it,
+<br>processes like loading dataset, check missing values and dataset statistics.
 <br>then we visualize some dataset columns in order to have some insights for better understanding, remove unnecessary columns and convert all the non-numeric columns to numeric.
-<br> finally we scale the dataset and split it into training and testing sets.<br><br>
-- Section 2 | Model Creation : <br>
-The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br><br>
-- Section 3 | Model Evaluation : <br>
+<br>Finally we scale the dataset and split it into training and testing sets.<br><br>
+
+- Section 2 | Model Creation :<br>
+The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.
+<br><br>
+
+- Section 3 | Model Evaluation :<br>
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
 
 <!-- INSTALLATION -->
-## **➲ Installation**
+## <br>**➲ Installation**
 
 1. Clone the repo
    ```sh
@@ -60,7 +64,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
    python customer_churn.py
 
 <!-- OUTPUT -->
-## **➲ Output**
+## <br>**➲ Output**
 Now let's see the project output after running customer_churn.py :
 
 **Dataset head :**<br>
@@ -91,7 +95,7 @@ Now let's see the project output after running customer_churn.py :
 ![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
 
 <!-- REFERENCES -->
-## **➲ References**
+## <br>**➲ References**
  
 These links may help you to better understanding of the project idea and techniques used :
 1. Customer chrum in machine learning : https://bit.ly/3B7zOte
@@ -99,7 +103,7 @@ These links may help you to better understanding of the project idea and techniq
 3. Model evaluation : https://bit.ly/3B12VOO
 
 <!-- CONTACT -->
-## **➲ Contact**
+## <br>**➲ Contact**
 
 - E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
 - LinkedIn : https://www.linkedin.com/in/omaarelsherif
