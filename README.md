@@ -102,5 +102,5 @@ These links may help you to better understanding of the project idea and techniq
 ## **➲ Contact**
 
 - E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
+- LinkedIn : https://www.linkedin.com/in/omaarelsherif
 - Facebook : https://www.facebook.com/omaarelshereif
