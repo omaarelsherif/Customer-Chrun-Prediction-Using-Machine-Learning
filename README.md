@@ -4,16 +4,16 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="Images/customer_chrun.jpg" />
+  <img src="Images/customer_chrun.jpg"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
-## <br/>➲ Project description
+## **➲ Project description**
 Customer churn is the percentage of customers that stopped using your company's product
 or service during a certain time frame, We will use machine learning algorithm called logistic regression to predict this value by train the model in dataset of customers information with their churn value and then predict future churn value for future customers.
 
 <!-- PREREQUISTIES -->
-## <br/>➲ Prerequisites
+## **➲ Prerequisites**
 This is a list of required packages for the project to be installed :
 * <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Pandas 
@@ -29,18 +29,15 @@ Install all required packages :
   pip install -r requirements.txt
   ```
 
-<!-- ABOUT DATASET -->
-## <br/>➲ The Dataset
+<!-- THE DATASET -->
+## **➲ The Dataset**
 The customer churn dataset contain 20 feature to describe customer state<br>
-and a target column which decide if the customer stay or not.
+and a target column **"Churn"** which decide if the customer stay or not.
 <br>**Dataset features and target :**
-<img src="Images/dataset_columns.png" alt="Logo">
-<br>**The goal? :**
-<br>So the goal of project is to predict the churn for new customer 
+<img src="Images/dataset_columns.png">
 
-
-<!-- CODING STEP BY STEP -->
-## <br/>➲ Coding sections
+<!-- CODING SECTIONS -->
+## **➲ Coding Sections**
 In this part we will see the project code divided to sections as follows:<br>
 - Section 1 | Data Preprocessing : <br>
 In this section we aim to do some operations on the dataset before training the model on it, <br>processes like loading dataset, check missing values and dataset statistics.
