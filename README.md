@@ -75,32 +75,31 @@ These links may help you to better understanding of the project idea and techniq
 Now let's see the project output after running customer_churn.py :
 
 Dataset head :
-![alt text for screen readers](/Images/Output_1_Dataset_Head.png "Dataset head")<br><br>
+![](/Images/Output_1_Dataset_Head.png)<br><br>
 
-Missing values :
+Missing values :<br>
+![](/Images/Output_2_Missing_Values.png)<br><br>
 
-![alt text](/Images/Output_2_Missing_Values.png "Missing values")<br><br>
+Dataset description :<br>
+![](/Images/Output_3_Dataset_Description.png)<br><br>
 
-Dataset description :
-![alt text for screen readers](/Images/Output_3_Dataset_Description.png "Dataset description")<br><br>
+Count of customer churn :<br>
+![](/Images/Output_4_Count_Customer_Churn.png)<br><br>
 
-Count of customer churn :
-![alt text for screen readers](/Images/Output_4_Count_Customer_Churn.png "Count of customer churn")<br><br>
+Count of customer churn based on gender :<br>
+![](/Images/Output_5_Churn_Gender.png)<br><br>
 
-Count of customer churn based on gender :
-![alt text for screen readers](/Images/Output_5_Churn_Gender.png "Count of customer churn based on gender")<br><br>
+Count of customer churn based on internet services :<br>
+![](/Images/Output_6_Churn_Internet.png)<br><br>
 
-Count of customer churn based on internet services :
-![alt text for screen readers](/Images/Output_6_Churn_Internet.png "Count of customer churn based on internet services")<br><br>
+Customer tenure and monthly charges :<br>
+![](/Images/Output_7_tenure_MonthlyCharges.png)<br><br>
 
-Customer tenure and monthly charges :
-![alt text for screen readers](/Images/Output_7_tenure_MonthlyCharges.png "Customer tenure and monthly charges")<br><br>
+Model confusion matrix :<br>
+![](/Images/Output_8_Confusion_Matrix.png)<br><br>
 
-Model confusion matrix :
-![alt text for screen readers](/Images/Output_8_Confusion_Matrix.png "Model confusion matrix")<br><br>
-
-Model classification report :
-![alt text for screen readers](/Images/Output_9_Acc_Classification_Report.png "Model classification report")<br><br>
+Model classification report :<br>
+![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
 
 <!-- CONTACT -->
 ## **➲ Contact**
