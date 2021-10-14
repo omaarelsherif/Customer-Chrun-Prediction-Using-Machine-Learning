@@ -87,7 +87,7 @@ Now let's see the project output after running customer_churn.py :
 **Model confusion matrix :**<br>
 ![](/Images/Output_8_Confusion_Matrix.png)<br><br>
 
-**Model classification report :**<br>
+**Model accuracy and classification report :**<br>
 ![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
 
 <!-- REFERENCES -->
