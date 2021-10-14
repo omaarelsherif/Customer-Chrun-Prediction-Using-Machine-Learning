@@ -43,11 +43,11 @@ In this part we will see the project code divided to sections as follows:
 In this section we aim to do some operations on the dataset before training the model on it,
 <br>processes like loading dataset, check missing values and dataset statistics.
 <br>then we visualize some dataset columns in order to have some insights for better understanding, remove unnecessary columns and convert all the non-numeric columns to numeric.
-<br>Finally we scale the dataset and split it into training and testing sets.<br><br>
+<br>Finally we scale the dataset and split it into training and testing sets.<br>
 
 - Section 2 | Model Creation :<br>
 The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.
-<br><br>
+<br>
 
 - Section 3 | Model Evaluation :<br>
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
