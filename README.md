@@ -74,31 +74,31 @@ These links may help you to better understanding of the project idea and techniq
 ## **➲ Output**
 Now let's see the project output after running customer_churn.py :
 
-Dataset head :
+**Dataset head :**<br>
 ![](/Images/Output_1_Dataset_Head.png)<br><br>
 
-Missing values :<br>
+**Missing values :**<br>
 ![](/Images/Output_2_Missing_Values.png)<br><br>
 
-Dataset description :<br>
+**Dataset description :**<br>
 ![](/Images/Output_3_Dataset_Description.png)<br><br>
 
-Count of customer churn :<br>
+**Count of customer churn :**<br>
 ![](/Images/Output_4_Count_Customer_Churn.png)<br><br>
 
-Count of customer churn based on gender :<br>
+**Count of customer churn based on gender :**<br>
 ![](/Images/Output_5_Churn_Gender.png)<br><br>
 
-Count of customer churn based on internet services :<br>
+**Count of customer churn based on internet services :**<br>
 ![](/Images/Output_6_Churn_Internet.png)<br><br>
 
-Customer tenure and monthly charges :<br>
+**Customer tenure and monthly charges :**<br>
 ![](/Images/Output_7_tenure_MonthlyCharges.png)<br><br>
 
-Model confusion matrix :<br>
+**Model confusion matrix :**<br>
 ![](/Images/Output_8_Confusion_Matrix.png)<br><br>
 
-Model classification report :<br>
+**Model classification report :**<br>
 ![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
 
 <!-- CONTACT -->
