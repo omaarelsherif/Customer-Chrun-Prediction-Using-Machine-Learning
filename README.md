@@ -58,14 +58,6 @@ Finally we evaluate the model by getting accuracy, classification report and con
 2. Run the code from cmd
    ```sh
    python customer_churn.py
-   
-<!-- REFERENCES -->
-## **➲ References**
- 
-These links may help you to better understanding of the project idea and techniques used :
-1. Customer chrum in machine learning : https://bit.ly/3B7zOte
-2. Logistic regression : https://bit.ly/3kqIIeA
-3. Model evaluation : https://bit.ly/3B12VOO
 
 <!-- OUTPUT -->
 ## **➲ Output**
@@ -97,6 +89,14 @@ Now let's see the project output after running customer_churn.py :
 
 **Model classification report :**<br>
 ![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
+
+<!-- REFERENCES -->
+## **➲ References**
+ 
+These links may help you to better understanding of the project idea and techniques used :
+1. Customer chrum in machine learning : https://bit.ly/3B7zOte
+2. Logistic regression : https://bit.ly/3kqIIeA
+3. Model evaluation : https://bit.ly/3B12VOO
 
 <!-- CONTACT -->
 ## **➲ Contact**
