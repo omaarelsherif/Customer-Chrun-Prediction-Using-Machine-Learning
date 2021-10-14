@@ -1,4 +1,3 @@
-
 <!-- PROJECT TITLE -->
 **<h1 align="center">Customer Churn Prediction</h1>**
 
@@ -53,7 +52,6 @@ Finally we evaluate the model by getting accuracy, classification report and con
 
 <!-- INSTALLATION -->
 ## <br>**➲ Installation**
-
 1. Clone the repo
    ```sh
    git clone https://github.com/omaarelsherif/Customer-Chrun-Prediction-Using-Machine-Learning.git
@@ -95,7 +93,6 @@ Now let's see the project output after running customer_churn.py :
 
 <!-- REFERENCES -->
 ## <br>**➲ References**
- 
 These links may help you to better understanding of the project idea and techniques used :
 1. Customer chrum in machine learning : https://bit.ly/3B7zOte
 2. Logistic regression : https://bit.ly/3kqIIeA
@@ -103,7 +100,6 @@ These links may help you to better understanding of the project idea and techniq
 
 <!-- CONTACT -->
 ## <br>**➲ Contact**
-
 - E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
 - LinkedIn : https://www.linkedin.com/in/omaarelsherif
 - Facebook : https://www.facebook.com/omaarelshereif
