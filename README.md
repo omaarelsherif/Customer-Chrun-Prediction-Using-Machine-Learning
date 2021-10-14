@@ -15,7 +15,7 @@ or service during a certain time frame, We will use machine learning algorithm c
 <!-- PREREQUISTIES -->
 ## <br/>➲ Prerequisites
 This is a list of required packages for the project to be installed :
-* Python 3.x<br><https://www.python.org/downloads>
+* <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Pandas 
 * Numpy
 * Seaborn
