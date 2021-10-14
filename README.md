@@ -23,14 +23,14 @@ This is a list of required packages for the project to be installed :
 * Scikit-learn
 
 <br>
-Install all required package :
+Install all required packages :
 
  ```sh
   pip install -r requirements.txt
   ```
 
 <!-- ABOUT DATASET -->
-## <br/>➲ About dataset
+## <br/>➲ The Dataset
 The customer churn dataset contain 20 feature to describe customer state<br>
 and a target column which decide if the customer stay or not.
 <br>**Dataset features and target :**
@@ -40,14 +40,14 @@ and a target column which decide if the customer stay or not.
 
 
 <!-- CODING STEP BY STEP -->
-## <br/>➲ Coding step by step
-In this section we will see the project code divided to sections:<br>
+## <br/>➲ Coding sections
+In this part we will see the project code divided to sections as follows:<br>
 - Section 1 | Data Preprocessing : <br>
 In this section we aim to do some operations on the dataset before training the model on it, <br>processes like loading dataset, check missing values and dataset statistics.
 <br>then we visualize some dataset columns in order to have some insights for better understanding, remove unnecessary columns and convert all the non-numeric columns to numeric.
-<br> finally we scale the dataset and split it into training and testing sets.
+<br> finally we scale the dataset and split it into training and testing sets.<br>
 - Section 2 | Model Creation : <br>
-The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.
+The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br> 
 - Section 3 | Model Evaluation : <br>
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
 
