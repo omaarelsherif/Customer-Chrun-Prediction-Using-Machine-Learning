@@ -45,9 +45,9 @@ In this part we will see the project code divided to sections as follows:<br>
 - Section 1 | Data Preprocessing : <br>
 In this section we aim to do some operations on the dataset before training the model on it, <br>processes like loading dataset, check missing values and dataset statistics.
 <br>then we visualize some dataset columns in order to have some insights for better understanding, remove unnecessary columns and convert all the non-numeric columns to numeric.
-<br> finally we scale the dataset and split it into training and testing sets.<br>
+<br> finally we scale the dataset and split it into training and testing sets.<br><br>
 - Section 2 | Model Creation : <br>
-The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br> 
+The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br><br>
 - Section 3 | Model Evaluation : <br>
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
 
@@ -69,6 +69,38 @@ These links may help you to better understanding of the project idea and techniq
 1. Customer chrum in machine learning : https://bit.ly/3B7zOte
 2. Logistic regression : https://bit.ly/3kqIIeA
 3. Model evaluation : https://bit.ly/3B12VOO
+
+<!-- OUTPUT -->
+## **➲ Output**
+Now let's see the project output after running customer_churn.py :
+
+Dataset head :
+![alt text for screen readers](/Images/Output_1_Dataset_Head.png "Dataset head")<br><br>
+
+Missing values :
+
+![alt text](/Images/Output_2_Missing_Values.png "Missing values")<br><br>
+
+Dataset description :
+![alt text for screen readers](/Images/Output_3_Dataset_Description.png "Dataset description")<br><br>
+
+Count of customer churn :
+![alt text for screen readers](/Images/Output_4_Count_Customer_Churn.png "Count of customer churn")<br><br>
+
+Count of customer churn based on gender :
+![alt text for screen readers](/Images/Output_5_Churn_Gender.png "Count of customer churn based on gender")<br><br>
+
+Count of customer churn based on internet services :
+![alt text for screen readers](/Images/Output_6_Churn_Internet.png "Count of customer churn based on internet services")<br><br>
+
+Customer tenure and monthly charges :
+![alt text for screen readers](/Images/Output_7_tenure_MonthlyCharges.png "Customer tenure and monthly charges")<br><br>
+
+Model confusion matrix :
+![alt text for screen readers](/Images/Output_8_Confusion_Matrix.png "Model confusion matrix")<br><br>
+
+Model classification report :
+![alt text for screen readers](/Images/Output_9_Acc_Classification_Report.png "Model classification report")<br><br>
 
 <!-- CONTACT -->
 ## **➲ Contact**
