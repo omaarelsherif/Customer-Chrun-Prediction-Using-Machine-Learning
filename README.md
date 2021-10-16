@@ -62,7 +62,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
 
 <!-- OUTPUT -->
 ## <br>**➲ Output**
-Now let's see the project output after running customer_churn.py :
+Now let's see the project output after running :
 
 **Dataset head :**<br>
 ![](/Images/Output_1_Dataset_Head.png)<br><br>
