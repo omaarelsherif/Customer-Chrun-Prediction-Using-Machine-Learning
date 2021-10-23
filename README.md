@@ -42,9 +42,15 @@ In this part we will see the project code divided to sections as follows:
 
 - Section 1 | Data Preprocessing :<br>
 In this section we aim to do some operations on the dataset before training the model on it,
-<br>processes like loading dataset, check missing values and dataset statistics.
-<br>then we visualize some dataset columns in order to have some insights for better understanding, remove unnecessary columns and convert all the non-numeric columns to numeric.
-<br>Finally we scale the dataset and split it into training and testing sets<br>
+<br>processes like:
+  - loading dataset
+  - Check missing values
+  - View dataset statistics
+  - Remove unnecessary columns
+  - Convert all the non-numeric columns to numeric
+  - Visualize some dataset columns in order to have some insights for better understanding
+  - Scale the dataset
+  - Split the dataset into training and testing sets<br>
 
 - Section 2 | Model Creation :<br>
 The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br>
