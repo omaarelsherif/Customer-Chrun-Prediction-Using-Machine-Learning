@@ -43,7 +43,7 @@ In this part we will see the project code divided to sections as follows:
 - Section 1 | Data Preprocessing :<br>
 In this section we aim to do some operations on the dataset before training the model on it,
 <br>processes like:
-  - loading dataset
+  - Loading dataset
   - Check missing values
   - View dataset statistics
   - Remove unnecessary columns
