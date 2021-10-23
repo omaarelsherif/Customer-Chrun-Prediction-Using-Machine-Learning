@@ -29,9 +29,11 @@ Install all required packages :
 <!-- THE DATASET -->
 ## <br>**➲ The Dataset**
 The customer churn dataset contain 20 feature to describe customer state<br>
-and a target column **"Churn"** which decide if the customer stay or not.
+and a target column **"Churn"** which decide if the customer stay or not.<br>
 <br>**Dataset features and target :**
 ![](Images/dataset_columns.png)
+<br>**Dataset head :**
+![](Images/Dataset_Head.png)
 
 <!-- CODING SECTIONS -->
 ## <br>**➲ Coding Sections**
