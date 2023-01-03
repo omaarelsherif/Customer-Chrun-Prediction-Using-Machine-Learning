@@ -3,7 +3,7 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="Images/customer_chrun_cover.png"/>
+  <img src="images/customer_chrun_cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
@@ -28,35 +28,47 @@ Install all required packages :
 
 <!-- THE DATASET -->
 ## <br>**➲ The Dataset**
-The customer churn dataset contain 20 feature to describe customer state<br>
-and a target column **"Churn"** which decide if the customer stay or not.<br>
-<br>**Dataset features and target :**
-![](Images/Dataset_Columns.png)<br>
-<br>**Dataset head :**
-![](Images/Dataset_Head.png)
+The customer churn dataset contain 20 feature to describe customer state
+and a target column **"Churn"** which decide if the customer stay or not.
+<br>**Features and target :**
+- gender
+- SeniorCitizen
+- Partner
+- Dependents
+- tenure
+- PhoneService
+- MultipleLines
+- InternetServic 
+- OnlineSecurity
+- OnlineBackup
+- DeviceProtection
+- TechSupport
+- StreamingTV
+- StreamingMovies
+- Contract 
+- PaperlessBilling 
+- PaymentMethod
+- MonthlyCharges
+- TotalCharges
+- Churn (target)
 
 <!-- CODING SECTIONS -->
 ## <br>**➲ Coding Sections**
 In this part we will see the project code divided to sections as follows:
 <br>
 
-- Section 1 | Data Preprocessing :<br>
+- Section 1 | The Data :<br>
 In this section we aim to do some operations on the dataset before training the model on it,
 <br>processes like:
-  - Loading dataset
-  - Check missing values
-  - View dataset statistics
-  - Remove unnecessary columns
-  - Convert all the non-numeric columns to numeric
-  - Visualize some dataset columns in order to have some insights for better understanding
-  - Scale the dataset
-  - Split the dataset into training and testing sets<br>
+  1. Data Loading : Load the dataset
+  2. Data Visualization : Visualize the dataset features and frequinces
+  3. Data Cleaning : Drop unwanted features and handling missing values 
+  4. Data Encoding : Encode categorical features
+  5. Data Scaling : Scale large numerical features
+  6. Data Splitting : Split data into training and testing sets<br><br>
 
-- Section 2 | Model Creation :<br>
-The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data.<br>
-
-- Section 3 | Model Evaluation :<br>
-Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
+- Section 2 | The Model :
+The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data, and evaluate the model by getting accuracy, classification report and confusion matrix<br>
 
 <!-- INSTALLATION -->
 ## <br>**➲ Installation**
@@ -64,40 +76,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
    ```sh
    git clone https://github.com/omaarelsherif/Customer-Chrun-Prediction-Using-Machine-Learning.git
    ```
-2. Run the code from cmd
-   ```sh
-   python customer_churn.py
-
-<!-- OUTPUT -->
-## <br>**➲ Output**
-Now let's see the project output after running :
-
-**Dataset head :**<br>
-![](/Images/Output_1_Dataset_Head.png)<br><br>
-
-**Missing values :**<br>
-![](/Images/Output_2_Missing_Values.png)<br><br>
-
-**Dataset description :**<br>
-![](/Images/Output_3_Dataset_Description.png)<br><br>
-
-**Count of customer churn :**<br>
-![](/Images/Output_4_Count_Customer_Churn.png)<br><br>
-
-**Count of customer churn based on gender :**<br>
-![](/Images/Output_5_Churn_Gender.png)<br><br>
-
-**Count of customer churn based on internet services :**<br>
-![](/Images/Output_6_Churn_Internet.png)<br><br>
-
-**Customer tenure and monthly charges :**<br>
-![](/Images/Output_7_tenure_MonthlyCharges.png)<br><br>
-
-**Model confusion matrix :**<br>
-![](/Images/Output_8_Confusion_Matrix.png)<br><br>
-
-**Model accuracy and classification report :**<br>
-![](/Images/Output_9_Acc_Classification_Report.png)<br><br>
+2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
 <!-- REFERENCES -->
 ## <br>**➲ References**
