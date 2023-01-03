@@ -3,7 +3,7 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="images/customer_chrun_cover.png"/>
+  <img src="Images/customer_chrun_cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
@@ -67,7 +67,7 @@ In this section we aim to do some operations on the dataset before training the 
   5. Data Scaling : Scale large numerical features
   6. Data Splitting : Split data into training and testing sets<br><br>
 
-- Section 2 | The Model :
+- Section 2 | The Model :<br>
 The dataset is ready for training, so we create a logistic regression model using scikit-learn and thin fit it to the data, and evaluate the model by getting accuracy, classification report and confusion matrix<br>
 
 <!-- INSTALLATION -->
