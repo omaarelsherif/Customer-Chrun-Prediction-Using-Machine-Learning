@@ -3,7 +3,7 @@
 
 <!-- LOGO -->
 <p align="center">
-  <img src="images/customer_chrun_cover.png"/>
+  <img src="Images/customer_chrun_cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
